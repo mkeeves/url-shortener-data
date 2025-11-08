@@ -8,5 +8,10 @@
     "url": "https://example.com/test-final-789",
     "created": "2025-11-08T20:36:01.630Z",
     "clicks": 0
+  },
+  "test123": {
+    "url": "https://www.google.com",
+    "created": "2025-11-08T20:39:22.646Z",
+    "clicks": 0
   }
 }
